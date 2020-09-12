@@ -2,6 +2,7 @@
 
 ## Main Skills
 - Java (Java EE, Jsf, Maven, Hibernate, EJB, EJB Message Driven, ApacheMq)
+- Node JS - Express API Rest
 - TDD Junit 
 - Spring (Web, Data, AMQP, Batch) 
 - Microservices
