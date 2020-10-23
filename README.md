@@ -8,7 +8,7 @@
 - Microservices
 - Docker
 
-💻 I’m currently working on [@CognizantBrasil](https://www.cognizant.com/pt-br/) </br>
+💻 I’m currently working on [@DeloitteBrasil](https://www2.deloitte.com/br/pt.html) </br>
 💬 E-mail - cleyton-chagas@hotmail.com
 
 🌱 I’m currently learning
