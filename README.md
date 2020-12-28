@@ -4,7 +4,6 @@
 - Spring (Web, Data JPA, AMQP, Batch, WebSocket)
 - Java (Java EE, Jsf, Maven, Hibernate, EJB, EJB Message Driven, ApacheMq)
 - Next Js / React
-- Typescript / Javascript
 - TDD Junit / Jest
 - Microservices
 - Docker
