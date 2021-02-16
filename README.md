@@ -12,9 +12,10 @@
 💻 I’m currently working on [@DeloitteBrasil](https://www2.deloitte.com/br/pt.html) </br>
 💬 E-mail - cleyton-chagas@hotmail.com
 
-🌱 I’m currently learning
+🌱 I’m currently learning 2021
+- Dark + Flutter
 - Spring Framework 
 - Microservices
-- Next JS
+
 
 
