@@ -3,6 +3,7 @@
 ## Main Skills
 - Spring (Web, Data JPA, AMQP, Batch, WebSocket)
 - Java (Java EE, Jsf, Maven, Hibernate, EJB, EJB Message Driven, ApacheMq)
+- Flutter
 - Next Js / React
 - TDD Junit / Jest
 - Microservices
