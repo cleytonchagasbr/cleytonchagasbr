@@ -1,20 +1,19 @@
-### Hi, my name is Cleyton Chagas 👋
-## São Paulo, Brazil
+## Cleyton Chagas | São Paulo, Brazil 👋
 
-## Main Skills
-I'm a backend developer with knowledge in React and Next js too!
-I started my career with Java and I still work with it, but I'm focusing my studies on NodeJs and Javascript.
-Node has given me a great development experience, I see advanced features that are easily implemented with NodeJs.
+### Java / Spring Framework
+I have been working with Java for 5 years, using Spring framework and Core applications, I have already developed projects with new and old technologies from the Java universe.
+
+## Node Js
+As a second language I really like Javascript using NodeJs to develop apis and microservices.
  
+🌱 Knowledge
+- Spring Framework - Boot, Data, Security
+- JavaEE - EJB, JSF, JSP
+- Javascript ES6
+- Node Js
+- React Js - NextJS
+
 💬 E-mail - cleyton-chagas@hotmail.com
-
-🌱 I’m currently learning
-- NodeJs
-- NextJs
-- Javascript
-- Cloud
-
-Build for everyone, this is my life motto.
 
 
 
