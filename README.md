@@ -1,13 +1,12 @@
 ## Cleyton Chagas | São Paulo, Brazil 👋
 
-### Java / Spring Framework
+### Fullstack developer
 I my name is Cleyton Chagas, 23y.
 
-- Spring Framework - Boot, Data, Security
-- JavaEE - EJB, JSF, JSP
-- Javascript ES6
-- Node Js
-- React Js - NextJS
+- React.js / Typescript
+- Java / Spring / Node js
+- UI / UX
+- Aws, Google Cloud
 
 
 
