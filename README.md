@@ -3,8 +3,7 @@
 ### Fullstack developer
 I my name is Cleyton Chagas.
 
-Frontend - React.js, Nextj.js and React Native.
-Backend - Java, Spring, Node.js and Nest.js
+Frontend - React.js, Nextj.js and React Native | Backend - Java, Spring, Node.js and Nest.js
 
 
 
