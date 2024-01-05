@@ -1,12 +1,10 @@
 ## Cleyton Chagas | São Paulo, Brazil 👋
 
 ### Fullstack developer
-I my name is Cleyton Chagas, 23y.
+I my name is Cleyton Chagas.
 
-- React.js / Typescript
-- Java / Spring / Node js
-- UI / UX
-- Aws, Google Cloud
+Frontend - React.js, Nextj.js and React Native.
+Backend - Java, Spring, Node.js and Nest.js
 
 
 
