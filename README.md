@@ -1,9 +1,7 @@
-## Cleyton Chagas | São Paulo, Brazil 👋
+# Ｃｌｅｙｔｏｎ　Ｃｈａｇａｓ
 
-### Fullstack developer
+ｍａｋｉｎｇ　ＡＩ　ｏｂｓｅｒｖａｂｌｅ
 
-Frontend - React.js, Nextj.js and React Native | Backend - Java, Spring, Node.js and Nest.js
+◢◤◢◤◢◤◢◤◢◤◢◤
 
-
-
-
+Ｓａｏ　Ｐａｕｌｏ　．　ＢＲ
